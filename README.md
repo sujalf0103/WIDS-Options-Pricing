@@ -4,7 +4,7 @@
 
 This repository contains the coursework and final project submission for the **Winter in Data Science (WIDS)** initiative. The project focuses on financial modeling and options pricing using the **Asian Paints (`ASIANPAINT`)** dataset.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The repository is organized into two main sections:
 
@@ -20,7 +20,7 @@ The files located in the **root directory** represent the **Final Project**. Thi
 
 ---
 
-## 🚀 Final Project Usage
+##  Final Project Usage
 
 Follow these instructions to run the Final Project code located in the root directory.
 
